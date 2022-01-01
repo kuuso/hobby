@@ -4,9 +4,8 @@
 [dc solver](https://github.com/kuuso/hobby/tree/master/dc_solver)
 
 
-
 Calculating static DC current for the graph of resistances and biases.
-[qiita](https://qiita.com/kuuso1/items/4553fad992796b57e883)に．
+[qiita](https://qiita.com/kuuso1/items/4553fad992796b57e883)．
 
 
 
@@ -16,3 +15,5 @@ Optimization sample of traveling salesman problem (TSP) using simulated anneal(S
 
 - SA part: C#
 - visualize, parameter tuning: Python script
+
+![TSP image](https://github.com/kuuso/hobby/blob/Images/TSP_sample/animation_TSP_SA_2opt_12fps.gif)
